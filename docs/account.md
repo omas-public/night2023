@@ -28,7 +28,7 @@ GoogleChromeブラウザから以下の情報を入力してください。
 - account: 別紙参照
 - password: 別紙参照
 
-![gmail login](https://github.com/omas-public/night2023/blob/master/assets/gmail.png)
+![gmail login](https://github.com/omas-public/night2023/blob/main/assets/gmail.png)
 
 
 #### note
@@ -54,7 +54,7 @@ GoogleChromeブラウザから以下の情報を入力してください。
 - URI: https://it-college.typingclub.com/signup/ZRWZB4Q
 - account, password: 左のGoogleロゴをクリック
 
-![typing login](https://github.com/omas-public/night2023/blob/master/assets/typing.png)
+![typing login](https://github.com/omas-public/night2023/blob/main/assets/typing.png)
 
 
 #### note
@@ -69,7 +69,7 @@ GoogleChromeブラウザから以下の情報を入力してください。
 - URI: https://paiza.jp/sign_up
 - 新規登録 他のサービスIDで会員登録からGoogleアカウント(G Suite)で登録
 
-![paiza login](https://github.com/omas-public/night2023/blob/master/assets/paiza1.png)
+![paiza login](https://github.com/omas-public/night2023/blob/main/assets/paiza1.png)
 
 
 ## elerning(progate) 登録
