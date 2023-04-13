@@ -14,7 +14,7 @@
 
 タイピングは正く学べば，2週間もあれば誰でもできるようになります。**キーボードを絶対見ない** ことと **スピードより正確さ** に気をつけてください。USキーボード配列で行いますので一部の記号はキーボードの印字と違います("USキー配列")を検索，理由については("USキーボード配列 ITエンジニア")を検索してください。
 
-![us key](https://github.com/omas-public/bootcamp2020/blob/main/assets/1920px-US_ANSI_keyboard_character_layout_JIS_comparison.svg.png)
+![us key](https://github.com/omas-public/night2023/blob/main/assets/1920px-US_ANSI_keyboard_character_layout_JIS_comparison.svg.png)
 
 30分位の練習を一日2回程度行うと，2週間くらいでタッチタイプができるようになります。
 
